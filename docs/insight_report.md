@@ -23,7 +23,7 @@ Dampak yang diharapkan: Sebagai ilustrasi, jika repeat rate naik dari 3% menjadi
 
 ## Temuan 2: Keterlambatan berkaitan dengan rating rendah
 
-Temuan: Sebanyak 8,11% pesanan terlambat (7.826 dari 96.470 pesanan yang punya tanggal tiba). Sekitar 9 dari 10 pesanan tiba tepat waktu, tetapi pesanan yang terlambat berdampak besar pada kepuasan pelanggan.
+Temuan: Sebanyak 8,11% pesanan terlambat (7.826 dari 96.470 pesanan yang punya tanggal tiba). Sekitar 9 dari 10 pesanan tiba tepat waktu, tetapi pesanan yang terlambat berdampak besar pada kepuasan pelanggan. 
 Pendukung:
 	•	Rating turun bertingkat mengikuti lamanya keterlambatan: 4,29 (tepat waktu), 3,28 (telat 1-3 hari), 2,12 (telat 4-7 hari), dan 1,69 (telat lebih dari 7 hari).
 	•	Pesanan yang terlambat 1-3 hari saja sudah kehilangan sekitar 1 poin rating (4,29 menjadi 3,28), dan yang terlambat lebih dari 7 hari kehilangan sekitar 2,6 poin.
